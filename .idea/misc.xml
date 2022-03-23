@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ProjectAndroid/LessonUdacity/aboutme/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/andfun-kotlin-dessert-pusher/src/main/res/drawable/bakery_back.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/andfun-kotlin-dessert-pusher/src/main/res/drawable/cupcake.xml" value="0.20416666666666666" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/andfun/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/andfun/src/main/res/menu/main_menu.xml" value="0.6928571428571428" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/colormyview/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/dice_1.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/dice_2.xml" value="0.20416666666666666" />
@@ -12,6 +16,10 @@
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/empty_dice.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/ic_launcher_background.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/game_fragment.xml" value="0.22" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/main_activity.xml" value="0.13333333333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/score_fragment.xml" value="0.11666666666666667" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/title_fragment.xml" value="0.13333333333333333" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trivia/src/main/res/drawable/about_android_trivia.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trivia/src/main/res/drawable/android.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trivia/src/main/res/drawable/android_category_simple.xml" value="0.20416666666666666" />
