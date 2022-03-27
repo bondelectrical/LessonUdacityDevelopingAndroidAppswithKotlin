@@ -9,6 +9,12 @@
         <entry key="..\:/ProjectAndroid/LessonUdacity/andfun/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/andfun/src/main/res/menu/main_menu.xml" value="0.6928571428571428" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/colormyview/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/drawable/ic_play_circle_outline_black_48dp.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/layout/activity_dev_byte_viewer.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/layout/devbyte_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/devbytes/src/main/res/layout/fragment_dev_byte.xml" value="0.18802083333333333" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/dice_1.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/dice_2.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/dice_3.xml" value="0.20416666666666666" />
@@ -20,6 +26,16 @@
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/main_activity.xml" value="0.13333333333333333" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/score_fragment.xml" value="0.11666666666666667" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/title_fragment.xml" value="0.13333333333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/drawable/ic_broken_image.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/drawable/ic_connection_error.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/drawable/loading_img.xml" value="0.1" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/layout/fragment_detail.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/layout/fragment_overview.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/layout/grid_view_item.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/realestateonmars/src/main/res/menu/overflow_menu.xml" value="0.18802083333333333" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trackmysleepquality/src/main/res/drawable/ic_sleep_5.xml" value="0.1" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trackmysleepquality/src/main/res/drawable/ic_sleep_active.xml" value="0.1" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/trackmysleepquality/src/main/res/font/roboto.xml" value="0.16944444444444445" />
