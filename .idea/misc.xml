@@ -22,6 +22,14 @@
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/empty_dice.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/drawable/ic_launcher_background.xml" value="0.20416666666666666" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/diceroller/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/font/lobster_two.xml" value="0.1925925925925926" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/font/roboto_light.xml" value="0.1925925925925926" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/layout/add_gdg_fragment.xml" value="0.21770833333333334" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/layout/fragment_gdg_list.xml" value="0.21770833333333334" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/layout/home_fragment.xml" value="0.21770833333333334" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/layout/list_item.xml" value="0.21770833333333334" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/layout/region.xml" value="0.21770833333333334" />
+        <entry key="..\:/ProjectAndroid/LessonUdacity/gdgfinder/src/main/res/menu/drawer_view.xml" value="0.21770833333333334" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/game_fragment.xml" value="0.22" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/main_activity.xml" value="0.13333333333333333" />
         <entry key="..\:/ProjectAndroid/LessonUdacity/guess/src/main/res/layout/score_fragment.xml" value="0.11666666666666667" />
